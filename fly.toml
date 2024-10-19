@@ -10,7 +10,7 @@ primary_region = 'ord'
 
 [env]
   FLY_SWAP = 'true'
-  SKYBRIDGE_BASEURL = 'myskybridge.fly.dev'
+  SKYBRIDGE_BASEURL = 'myskybridge-nameless-log-2055.fly.dev'
   SKYBRIDGE_SHOW_INDEX = 'true'
 
 [[mounts]]
